@@ -25,6 +25,9 @@ Desenvolvimento
 O Projeto foi desenvolvido por:
 
 Anderson
+
 Fernanda
+
 Renan
+
 Rodrigo
