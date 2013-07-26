@@ -18,3 +18,13 @@ Materiais utilizados:
 1 Arduino Uno R3
 
 Jumpers a vontade
+
+
+Desenvolvimento
+=======
+O Projeto foi desenvolvido por:
+
+Anderson
+Fernanda
+Renan
+Rodrigo
